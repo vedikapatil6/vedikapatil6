@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedika Patil</h1>
-<h3 align="center">I’m Vedika Patil, a Computer Science undergraduate at Vishwakarma Institute of Technology (VIT), Pune, driven by a balance of technical depth and creative thinking. I enjoy building software that is not only efficient and reliable but also thoughtfully designed with a strong focus on usability.
+<h4 align="center">I’m Vedika Patil, a Computer Science undergraduate at Vishwakarma Institute of Technology (VIT), Pune, driven by a balance of technical depth and creative thinking. I enjoy building software that is not only efficient and reliable but also thoughtfully designed with a strong focus on usability.
 
-My technical interests include Machine Learning, Applied AI, and Full-Stack fundamentals, and I actively explore how modern tools and technologies can be used responsibly and effectively to solve real-world problems. Alongside this, I have a strong inclination toward design-oriented development and enjoy translating ideas into clean, intuitive interfaces. I believe strong engineers grow through continuous learning, experimentation, and thoughtful problem-solving, and I’m always open to new challenges and collaborations 🚀</h3>
+My technical interests include Machine Learning, Applied AI, and Full-Stack fundamentals, and I actively explore how modern tools and technologies can be used responsibly and effectively to solve real-world problems. Alongside this, I have a strong inclination toward design-oriented development and enjoy translating ideas into clean, intuitive interfaces. I believe strong engineers grow through continuous learning, experimentation, and thoughtful problem-solving, and I’m always open to new challenges and collaborations 🚀</h4>
 
 - 🌱 I’m currently learning **React Native and Cloud Technologies**
 
